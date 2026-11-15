@@ -1,0 +1,6 @@
+Metrik,Nilai
+Akurasi,0.622
+Presisi (weighted),0.607
+Recall (weighted),0.622
+F1-Score (weighted),0.612
+Baseline (tebak netral),0.593
